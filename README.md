@@ -4,7 +4,7 @@
 ## I'm a Final Year Student , Competitive programmer and Developer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Developers and Programmers
 - 🥅 2021 Goals: Make some good Projects| Improve My problem Solvoing Skills | Learn new Tech Stack
 - ⚡ Fun fact: I love to Enjoying Life with My friends And Family(actually this is something All does 😅)
 
